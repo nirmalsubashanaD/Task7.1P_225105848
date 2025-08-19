@@ -3,7 +3,7 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDkA5_rbEEmFu7glDCilWdmaAm-ZMGYCnc",
+  apiKey: "", //i hid the google api key
   authDomain: "task7-59646.firebaseapp.com",
   projectId: "task7-59646",
   storageBucket: "task7-59646.firebasestorage.app",
